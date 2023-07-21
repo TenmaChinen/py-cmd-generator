@@ -9,10 +9,10 @@ Easily generate different kind of projects with basic and essential setup that s
 
 
 ### Django
-
 Check [Django Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/django)
 
-### React ( TODO )
+### React
+Check [React Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/react)
 
 ### Django-React ( TODO )
 
@@ -20,5 +20,4 @@ Check [Django Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/dj
 Check [Python MVC Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/python-mvc)
 
 ### HTML - JS - CSS
-
 Check [HTML-JavaScript-CSS  Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/html-js)
