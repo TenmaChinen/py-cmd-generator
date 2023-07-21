@@ -17,7 +17,7 @@ Check [Django Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/dj
 ### Django-React ( TODO )
 
 ### Python MVC ( Model View Controller )
-Check [Python MVC Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/django)
+Check [Python MVC Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/python-mvc)
 
 ### HTML - JS - CSS
 
