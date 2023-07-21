@@ -1,28 +1,16 @@
-# py-cmd-generator
+# HTML-JavaScript
 
 ## Description
 
 Global python automation scripts executed from terminal.
-Easily generate different kind of projects with basic and essential setup that solves the inconvenience of the default framework generators that may not provide all what is actually needed.
+Easily generate different a basic `HTML`, `JavaScript` and `CSS` files based project, with basic setup ready to test something or start some project.
 
 ## Setup
 
-1. Add each project inside a same folder that is set to path
-2. In terminal put :
+1. Download the whole project.
+2. Place the project in some set to path directory.
+3. Open terminal anywhere you want and put :
 ```cmd
-    py -m dj --app_name=foos
-    py -m rc
-    py -m dj-rc --app_name=foos
+    py -m html-js
 ```
 
-### Django
-
-[Django CMD Generator ](https://github.com/TenmaChinen/py-cmd-generator/tree/django)
-
-### React
-
-### Django-React
-
-### Python [MVC](## "Model View Controller")
-
-### HTML - JS - CSS
