@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>{% block title %}Default Title{% endblock %}</title>
+
+		<link rel="stylesheet" href="{% static 'css/base.css' %}">
+		<link rel="stylesheet" href="{% static 'css/icons.css' %}">
+
+		{% block links %}{% endblock %}
+		
+		{% block styles %}{% endblock %}
+
+	</head>
+	<body>
+		<nav>
+			<div class="nav-pack">
+				{% block btn_back %}{% endblock %}
+				<div class="nav-title">Lozen</div>
+			</div>
+			<div class="nav-pack">
+				
+				{% with request.path as url %}
+					{# <a href="{% url 'app_name:list' %}" class="{% if 'app_name' in url %}active{% endif %}">Section A</a> #}
+					{# <a href="{% url 'app_name:list' %}" class="{% if 'app_name' in url %}active{% endif %}">Section B</a> #}
+				{% endwith %}
+					
+			</div>
+		</nav>
+
+		<main>
+			{% block content %}{% endblock %}
+		</main>
+
+	</body>
+
+	{% block scripts %}{% endblock %}
+
+</html>
