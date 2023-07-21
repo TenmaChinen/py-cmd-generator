@@ -10,6 +10,6 @@ Several automation global python scripts that easily generate different kind of 
 
 ### Django-React
 
-### Python [MVC]: ## "Model View Controller"
+### Python [MVC](## "Model View Controller")
 
 ### HTML - JS - CSS
