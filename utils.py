@@ -56,7 +56,7 @@ def settings_modificator(src_dir, dst_dir, app_name):
   #####################################
 
   target = 'ALLOWED_HOSTS = []'
-  replace = "ALLOWED_HOSTS = [ '127.0.0.1', 'username.pythonanywhere.com' ]"
+  replace = "ALLOWED_HOSTS = [ '127.0.0.1', 'teslachinen.pythonanywhere.com' ]"
   string = string.replace(target, replace)
 
   #####################################
