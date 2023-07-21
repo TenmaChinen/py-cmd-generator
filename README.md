@@ -10,14 +10,15 @@ Easily generate different kind of projects with basic and essential setup that s
 
 ### Django
 
-Check [Django CMD Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/django)
+Check [Django Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/django)
 
 ### React ( TODO )
 
 ### Django-React ( TODO )
 
-### Python [MVC](## "Model View Controller")
+### Python MVC ( Model View Controller )
+Check [Python MVC Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/django)
 
 ### HTML - JS - CSS
 
-Check [Html-JS CMD Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/html-js)
+Check [HTML-JavaScript-CSS  Generator](https://github.com/TenmaChinen/py-cmd-generator/tree/html-js)
